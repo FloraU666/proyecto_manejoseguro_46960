@@ -1,0 +1,1 @@
+<script src="ruta/hacia/bootstrap.min.js"></script>

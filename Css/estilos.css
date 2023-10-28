@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    color:black
+}
+
+/*.bgcolorNav{
+    background-color: rgb(151, 151, 151);
+
+}*/
+
+.navbar-light .navbar-nav .nav-link.verde {
+    color:rgb(14, 153, 134)
+}
+
+.bgColorGreen{
+    color: rgb(28, 175, 143);
+}
+
+.alto{
+    height:40vh;
+}
+
+.alto img{
+    object-fit: cover;
+}
+
+.colorWhite{
+    color: white;
+    
+}
+
+.tamanioFoot{
+    height:40px;
+    width: 40px;
+    padding-top: 5px;
+}
+
+.bgColorOscuro{
+    background-color: rgb(28, 160, 142);
+}
+
+
+/*footer*/
+
+
+

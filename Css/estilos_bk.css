@@ -1,0 +1,142 @@
+/*COMENTARIOS PARA CSS*/
+
+/*selector {
+    propiedad: valor;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@100;300;400;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    /*
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+
+header {
+    color:rgb(41, 41, 41);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.imgLogo {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.logo{
+    color: rgb(17, 17, 17);
+}
+
+.listaNav{
+    list-style:none;
+}
+
+.listaNav li{
+    display: inline;
+}
+
+.linkNav{
+    display:inline;
+    text-decoration:none;
+    color:black;
+}
+
+nav{
+    background-color: rgb(255, 222, 36);
+    padding-top: 16px;
+    padding-bottom: 16px;
+    
+}
+
+.imagenFondo{
+    height: 600px;
+    width:100%;
+    background-image:url("../assets/img/fondoBiker.jpg");
+}
+
+.h2Color{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.contenidoprincipal{
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.titulosh2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tarjetasHome {
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    width: 100%;
+    margin:0 auto;
+}
+
+.tarjeta {
+        display:inline-block;
+        background-color: rgb(100, 100, 100);
+        text-align: center;
+        width: 300px;
+        height: 200px;
+        padding-top: 10px;
+}
+
+.mapa{
+    width:128px;
+    height:128px;
+}
+
+.tarjetasQuienes { 
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.tarjetaQ{
+        display:inline-block;
+        background-color: rgb(100, 100, 100);
+        text-align: center;
+        width: 400px;
+        height: 300px;
+        padding-top: 10px;
+}
+
+.tamanioImg{
+    width:200px;
+    height:200px;
+}
+
+.nosotros{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.foot{
+    background-color: rgb(255, 222, 36) ;
+    text-align: right;
+    padding-right: 50px;
+}
+
+.formulario {
+        background-color: rgb(175, 175, 175);
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+*/
